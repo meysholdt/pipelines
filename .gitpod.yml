@@ -9,4 +9,6 @@ tasks:
       echo
       echo "Running 'python3 pipelines.py' demo!"
       python3 pipelines.py
+      gp open pipelines_plot_original.png
+      gp open pipelines_plot_solution.png
 
